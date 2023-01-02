@@ -1,0 +1,12 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="WindFormUITesting.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="ApplicationPath" Type="System.String" Scope="User">
+      <Value Profile="(Default)">D:\Documentos\Workspace\Cursos\Udemy\WinAppDriver\Application+under+test\DoNotDistrurbMortgageCalculatorFrom1999.exe</Value>
+    </Setting>
+    <Setting Name="ApplicationWorkingDirectory" Type="System.String" Scope="User">
+      <Value Profile="(Default)">D:\Documentos\Workspace\Cursos\Udemy\WinAppDriver\AUT_with_grid_data (1)\DoNotDistrurbMortgageCalculatorFrom1999.exe</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
