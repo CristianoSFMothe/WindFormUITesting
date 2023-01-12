@@ -6,7 +6,7 @@
       <Value Profile="(Default)">D:\Documentos\Workspace\Cursos\Udemy\WinAppDriver\Application+under+test\DoNotDistrurbMortgageCalculatorFrom1999.exe</Value>
     </Setting>
     <Setting Name="ApplicationWorkingDirectory" Type="System.String" Scope="User">
-      <Value Profile="(Default)">D:\Documentos\Workspace\Cursos\Udemy\WinAppDriver\AUT_with_grid_data (1)\DoNotDistrurbMortgageCalculatorFrom1999.exe</Value>
+      <Value Profile="(Default)">D:\Documentos\Workspace\Cursos\Udemy\WinAppDriver\estudos\WindFormUITesting\DoNotDistrurbMortgageCalculatorFrom1999.exe</Value>
     </Setting>
   </Settings>
 </SettingsFile>

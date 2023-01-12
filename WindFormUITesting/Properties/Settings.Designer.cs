@@ -38,8 +38,8 @@ namespace WindFormUITesting.Properties {
         
         [global::System.Configuration.UserScopedSettingAttribute()]
         [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
-        [global::System.Configuration.DefaultSettingValueAttribute("D:\\Documentos\\Workspace\\Cursos\\Udemy\\WinAppDriver\\AUT_with_grid_data (1)\\DoNotDis" +
-            "trurbMortgageCalculatorFrom1999.exe")]
+        [global::System.Configuration.DefaultSettingValueAttribute("D:\\Documentos\\Workspace\\Cursos\\Udemy\\WinAppDriver\\estudos\\WindFormUITesting\\DoNot" +
+            "DistrurbMortgageCalculatorFrom1999.exe")]
         public string ApplicationWorkingDirectory {
             get {
                 return ((string)(this["ApplicationWorkingDirectory"]));

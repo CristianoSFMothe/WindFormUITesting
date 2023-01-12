@@ -21,7 +21,8 @@ namespace WindFormUITesting
             AppiumOptions dcWinForms = new AppiumOptions();
 
             dcWinForms.AddAdditionalCapability("app",
-                WindFormUITesting.Properties.Settings.Default.ApplicationWorkingDirectory);     
+                WindFormUITesting.Properties.Settings.Default.ApplicationPath);
+               // @"D:\Documentos\Workspace\Cursos\Udemy\WinAppDriver\WindFormUITesting\DoNotDistrurbMortgageCalculatorFrom1999.exe");
 
             sessionWinForms = new WindowsDriver<WindowsElement>(new Uri("http://127.0.0.1:4723"), dcWinForms);
 
